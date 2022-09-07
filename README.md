@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
 <h3 align="center">A Student from VietNam</h3>
 
-<p align="left"> <a href="https://twitter.com/khaizr0" target="blank"><img src="https://img.shields.io/twitter/follow/khaizr0?logo=twitter&style=for-the-badge" alt="khaizr0" /></a> </p>
-
 - 🔭 I’m currently Studying at [Van Lang University](https://tuyensinh.vanlanguni.edu.vn/ky-thuat-phan-mem/)
 
 - 🌱 I’m currently learning **C#, HTML, CSS, JS**
