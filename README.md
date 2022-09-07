@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me **caophankhai2004@gmail.com**
+- 📫 How to reach me:  **caophankhai2004@gmail.com**
 
-- 📄 Know about my experiences [nah still learning code](nah still learning code)
+- 📄 Know about my experiences: (nah still learning code)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
