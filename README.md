@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me:  **caophankhai2004@gmail.com**
+- 📫 How to reach me:  **caophankhai123@gmail.com**
 
 - 📄 Know about my experiences: (nah still learning code)
 
