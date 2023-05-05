@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:  **caophankhai123@gmail.com**
 
-- 📄 Know about my experiences: (nah still learning code)
+- 📄 Know about my experiences: I can exit Vim
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
