@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
-<h3 align="center">A Student from VietNam</h3>
 
 - 🔭 I’m currently Studying at [Van Lang University](https://tuyensinh.vanlanguni.edu.vn/ky-thuat-phan-mem/)
 
