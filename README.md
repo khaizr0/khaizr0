@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently Studying at [Van Lang University](https://tuyensinh.vanlanguni.edu.vn/ky-thuat-phan-mem/)
 
-- 🌱 I’m currently learning **C#, HTML, CSS, JS**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/KhaiZeR0?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 📫 How to reach me:  **caophankhai123@gmail.com**
+- 📫 How to reach me:  **caophankhai2004@gmail.com**
 
 - 📄 Know about my experiences: I can exit Vim
 
