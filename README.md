@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/KhaiZeR0?tab=repositories)
 
-- 📫 How to reach me:  **caophankhai2004@gmail.com**
+- 📫 How to reach me:  **caophankhai123@gmail.com**
 
 - 📄 Know about my experiences: I can exit Vim
 
