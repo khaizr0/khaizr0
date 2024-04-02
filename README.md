@@ -16,7 +16,7 @@
 <a href="https://discord.gg/Khai#6981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Khai#6981" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khaizer0&show_icons=true&locale=en&layout=compact" alt="khaizer0" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khaizr0&show_icons=true&locale=en&layout=compact" alt="khaizr0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khaizer0&show_icons=true&locale=en" alt="khaizer0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khaizr0&show_icons=true&locale=en" alt="khaizr0" /></p>
 
