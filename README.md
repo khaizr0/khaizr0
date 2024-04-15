@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khai</h1>
+<h1 align="center">Hi 👋, I'm Khải</h1>
 
 - 🔭 I’m currently Studying at [Van Lang University](https://tuyensinh.vanlanguni.edu.vn/ky-thuat-phan-mem/)
 
