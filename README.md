@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Khải</h1>
+<h1 align="center">Hello, Im Khải <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+<img width="960" height="532" src="https://github.com/user-attachments/assets/41f41c2e-3d33-4abe-80c9-fe6a5bc927ad" />
 
 - 🔭 I’m currently Studying at [Van Lang University](https://tuyensinh.vanlanguni.edu.vn/ky-thuat-phan-mem/)
 
@@ -9,11 +11,14 @@
 - 📄 Know about my experiences: I can exit Vim
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/khaizr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaizr0" height="30" width="40" /></a>
-<a href="https://www.facebook.com/caophankhai2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/caophankhai2004" height="30" width="40" /></a>
-<a href="https://www.instagram.com/khaizr0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khaizr0/" height="30" width="40" /></a>
-<a href="https://discord.gg/Khai#6981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Khai#6981" height="30" width="40" /></a>
+<a href="https://www.facebook.com/caophankhai2004" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30">
+</a>
+<a href="https://www.instagram.com/khaizr0/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30">
+</a>
 </p>
 
 <h3 align="left">Badges:</h3>
