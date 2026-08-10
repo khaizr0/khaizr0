@@ -2,7 +2,7 @@
 
 <img width="960" height="532" src="https://github.com/user-attachments/assets/41f41c2e-3d33-4abe-80c9-fe6a5bc927ad" />
 
-- 🎓 I’m a final-year student at [Van Lang University](https://tuyensinh.vanlanguni.edu.vn/ky-thuat-phan-mem/), currently preparing for graduation. 
+- 🎓 Software Engineering Graduate from Van Lang University
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/KhaiZeR0?tab=repositories)
 
