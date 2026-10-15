@@ -18,8 +18,7 @@ jobs:
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
           credly-username: "khaizr0"
-          output: svg
-          
+          badge-size: "120"
 
       - name: Commit changes
         run: |
