@@ -4,7 +4,7 @@ Welcome to my github profile :>
 
 ## Certifications
 
-<div align="left">
+
   <!-- CREDLY-BADGES:START -->
 📚 **Knowledge & Learning Badges**
 
@@ -17,7 +17,7 @@ Welcome to my github profile :>
 
 </div>
 <!-- CREDLY-BADGES:END -->
-</div>
+
 
 ## Other Badges
 <a href="https://openbadgepassport.com/app/badge/info/736516" target="blank"><img align="center" src="https://github.com/khaizr0/khaizr0/assets/54585187/e74b0936-99af-4001-ae71-0dd79d8ddb20" alt="Applications & Use Cases Professional Certification" width="120" /></a>
